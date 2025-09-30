@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/parthtambe12" target="blank"><img src="https://img.shields.io/twitter/follow/parthtambe12?logo=twitter&style=for-the-badge" alt="parthtambe12" /></a> </p>
 
-- 🔭 I’m currently working on **Ayurveda Assistance**
+- 🔭 I’m currently working on **Mocktest-simulator project**
 
-- 🌱 I’m currently learning **Next.js,Bun.js,Flutter,Django**
+- 🌱 I’m currently learning **Next.js,Django,DevOps**
 
-- 💬 Ask me about **React,Node.js,Html5,Css,Js,C++**
+- 💬 Ask me about **React,Node.js,Html5,Css,Js,C++,Python**
 
 - 📫 How to reach me **tambeparth27@gmail.com**
 
